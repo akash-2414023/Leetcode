@@ -34,10 +34,12 @@ Leetcode progress tracker
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/1332-remove-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/akash-2414023/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/akash-2414023/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [1332-remove-palindromic-subsequences](https://github.com/akash-2414023/LEETCODE/tree/master/1332-remove-palindromic-subsequences) |
 ## Dynamic Programming
